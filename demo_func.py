@@ -19,4 +19,4 @@ b = 2
 add = lazy_eval(add)
 c = add(a, b)
 print "lazy"
-print c
+print c + 8
